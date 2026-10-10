@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xcollantes.github.io/stephanie-lim-preview/sitemap.xml
